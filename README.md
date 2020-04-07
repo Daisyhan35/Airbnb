@@ -1,5 +1,5 @@
 # Airbnb
 
-##	Developed by Daisyhan
+## Developed by Daisyhan
 
 ### This is a git tutorial
