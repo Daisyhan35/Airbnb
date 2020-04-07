@@ -2,4 +2,4 @@
 
 ## Developed by Daisyhan
 
-### This is a git tutorialgit
+### This is a git tutorial
